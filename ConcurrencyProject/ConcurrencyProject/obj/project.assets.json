@@ -4244,11 +4244,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\User\\Downloads\\concproject\\ConcurrencyProject\\ConcurrencyProject\\ConcurrencyProject.csproj",
+      "projectUniqueName": "C:\\Users\\User\\Downloads\\concproject-KassemHmady-5905\\ConcurrencyProject\\ConcurrencyProject\\ConcurrencyProject.csproj",
       "projectName": "ConcurrencyProject",
-      "projectPath": "C:\\Users\\User\\Downloads\\concproject\\ConcurrencyProject\\ConcurrencyProject\\ConcurrencyProject.csproj",
+      "projectPath": "C:\\Users\\User\\Downloads\\concproject-KassemHmady-5905\\ConcurrencyProject\\ConcurrencyProject\\ConcurrencyProject.csproj",
       "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\User\\Downloads\\concproject\\ConcurrencyProject\\ConcurrencyProject\\obj\\",
+      "outputPath": "C:\\Users\\User\\Downloads\\concproject-KassemHmady-5905\\ConcurrencyProject\\ConcurrencyProject\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
